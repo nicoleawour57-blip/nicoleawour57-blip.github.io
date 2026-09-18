@@ -14,9 +14,9 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: "Nicole Awuor" # the main title
+title: Nicole Awuor # the main title
 
-tagline: "CyberSecurity Analyst | SOC Analyst | CTF Enthusiast # it will display as the subtitle
+tagline: CyberSecurity Analyst | SOC Analyst | CTF Enthusiast # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
  My Journey and projects in BBIT
